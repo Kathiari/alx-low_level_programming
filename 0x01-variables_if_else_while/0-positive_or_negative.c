@@ -5,9 +5,10 @@
 
 /* betty style doc main goes there */
 /**
- * the code tests the sign of an int
+ * main - the entry point
  *
- *
+ * Description: determine if number is positive or negative
+ * Return: null values are received
  */
 
 int main(void)
