@@ -9,10 +9,8 @@
  *
  *
  *
- * Description: determine last digit of number
- *
+ * Description: determine last digit of number of digit
  * Return: null values are received
- *
  */
 
 int main(void)
