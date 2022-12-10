@@ -7,8 +7,6 @@
 /**
  * main - the entry point
  *
- *
- *
  * Description: determine last digit of number of digit
  * Return: null values are received
  */
