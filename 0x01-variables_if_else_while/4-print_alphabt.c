@@ -1,11 +1,10 @@
 #include<stdio.h>
-
 /* A progrm to print only certain files*/
 /**
  * main - only print certain alphabets
  *
- * Description - a program of exception
- * Return - always 0 success
+ * Description: A program of exception
+ * Return: Always 0 success
  */
 
 int main(void)
@@ -13,9 +12,9 @@ int main(void)
 	char a='a';
 	char z='z';
 
-	while(a<=z)
+	while (a <= z)
 	{
-		if(a != 'e' && a != 'q')
+		if (a != 'e' && a != 'q')
 			putchar(a);
 		a++;
 	}
