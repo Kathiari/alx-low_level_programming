@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * _isalpha(int c) - checks fro alphabetic character
+ * _isalpha - checks fro alphabetic character
  * @c: the character to be checked
  *
  * Return: The null value is returned
  */
 int _isalpha(int c)
 {
-	if (c <= 122 && c >=97)
+	if (c <= 122 && c >= 97)
 	{
 		return (1);
 	}
