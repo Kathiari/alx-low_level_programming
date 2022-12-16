@@ -2,7 +2,7 @@
 
 /**
  * print_square - a function that prints a sqaure
- * @n: the size of sqaure
+ * @size: the size of sqaure
  * Return: Always 0.
  */
 void print_square(int size)
