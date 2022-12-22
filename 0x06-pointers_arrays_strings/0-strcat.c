@@ -2,13 +2,13 @@
 
 /**
  * _strcat - a function that concatenates two strings
- * @dest: the first string
- * @src: the second string
+ * @dest: str
+ * @src: str
  *
- * Return: an array.
+ * Return: an array
  */
 
-char * _strcat(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	char *s = dest;
 
