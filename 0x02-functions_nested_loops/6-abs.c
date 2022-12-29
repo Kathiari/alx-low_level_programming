@@ -1,8 +1,11 @@
 #include "main.h"
+
 /*
- * _abs - this function computes the absolute value
+ * _abs - this func computes absolute value
+ *
  * @c: first value
  * @d: decond value
+ * 
  * Return: Always 0
  */
 
