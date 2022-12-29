@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * _abs - this func computes absolute value
  *
  * @c: first value
