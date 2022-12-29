@@ -5,7 +5,6 @@
  *
  * @c: first value
  * @d: decond value
- * 
  * Return: Always 0
  */
 
