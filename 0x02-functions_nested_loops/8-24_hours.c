@@ -1,4 +1,4 @@
-#include "main.h" 
+#include "main.h"
 
 /**
  * jack_bauer - this function prints every minute
