@@ -7,7 +7,9 @@
  *
  * @accept: second argument
  *
- * Return: Always 0.
+ * @j: first var
+ *
+ * Return: a pointer.
  */
 
 char *_strpbrk(char *s, char *accept)
