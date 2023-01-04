@@ -1,5 +1,15 @@
 #include "main.h"
 
+/**
+ * _strpbrk - a function that searches a string
+ *
+ * @s: first argument
+ *
+ * @accept: second argument
+ *
+ * Return: Always 0.
+ */
+
 char *_strpbrk(char *s, char *accept)
 {
 	int j;
@@ -15,5 +25,5 @@ char *_strpbrk(char *s, char *accept)
 		}
 		s++;
 	}
-	return (s);
+	return (0);
 }				
