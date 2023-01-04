@@ -2,11 +2,11 @@
 
 /**
  * _strspn - a function that locates a character in a string
+ *
  * @s: first argument
+ *
  * @accept: second argument
- * @i: first var
- * @j: second var
- * @k: third var
+ *
  * Return: an int.
  */
 
